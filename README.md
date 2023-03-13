@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Estoy actualmente trabajando en varios proyectos como [MaxFiT App](https://maxfit-elsantuario.web.app/home)
+- 🔭 Estoy actualmente trabajando en múltiples proyectos, abierto a oportunidades laborales estables.
 
 - 👨‍💻 Mi portafolio: [https://portafolio-juan-pablo.web.app/](https://portafolio-juan-pablo.web.app/)
 
