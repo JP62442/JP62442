@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Estoy actualmente abierto a oportunidades laborales estables.
+- 🔭 Actualmente trabajando en SISTEMAS INTELIGENTES EN RED.
 
 - 👨‍💻 Mi portafolio: [https://portafolio-juan-pablo.web.app/](https://portafolio-juan-pablo.web.app/)
 
