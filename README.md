@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente trabajando en inteia.
 
-- 📫 Puedes contactarme en: **juanfrondev@gmail.com**
+- 📫 Puedes contactarme en: **soft.eng.juanpablo@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
