@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Juan Pablo Cardona Duque.</h1>
-<h3 align="center">Senior Software Developer.</h3>
+<h1 align="center">Juan Pablo Cardona Duque.</h1>
+<h3 align="center">Senior Software Developer. Specialized in FrontEnd Web.</h3>
 
 
 
-- 🔭 Actualmente trabajando en GML Software.
+- 🚧 Currently working on GML Software.
+
+- 🔭 Open to new opportunities. 
 
 - 📫 You can contact me at: **soft.eng.juanpablo@gmail.com**
 
