@@ -1,5 +1,5 @@
 <h1 align="center">Juan Pablo Cardona Duque.</h1>
-<h3 align="center">Senior Software Developer. Specialized in FrontEnd Web.</h3>
+<h3 align="center">Semi-Senior Software Developer. Specialized in FrontEnd Web.</h3>
 
 
 
