@@ -3,9 +3,7 @@
 
 
 
-- 🚧 Currently working on GML Software.
-
-- 🔭 Open to new opportunities. 
+- 🚧 Currently working on Apptega (With Cafeto Software).
 
 - 📫 You can contact me at: **soft.eng.juanpablo@gmail.com**
 
