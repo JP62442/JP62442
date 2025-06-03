@@ -3,7 +3,7 @@
 
 
 
-- 🚧 Currently working on Apptega (With Cafeto Software).
+- 🚧 Currently working on Apptega.
 
 - 📫 You can contact me with LinkedIn.
 
