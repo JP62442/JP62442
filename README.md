@@ -1,11 +1,11 @@
 <h1 align="center">Juan Pablo Cardona Duque.</h1>
-<h3 align="center">Semi-Senior Software Developer. Specialized in FrontEnd Web.</h3>
+<h3 align="center">Software Developer. Specialized in FrontEnd Web, with knowledge on BackEnd.</h3>
 
 
 
 - 🚧 Currently working on Apptega (With Cafeto Software).
 
-- 📫 You can contact me at: **soft.eng.juanpablo@gmail.com**
+- 📫 You can contact me with LinkedIn.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
